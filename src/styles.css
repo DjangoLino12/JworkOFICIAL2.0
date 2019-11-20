@@ -1,0 +1,47 @@
+body {
+  
+  font-family: sans-serif;
+}
+#app{
+  width: 1000px;
+  height: auto;
+  margin: auto;
+}
+ .cont{
+   display:flex;
+
+ }
+footer{
+  margin-left: 330px;
+  color: #666;
+  margin-top: 30px;
+} 
+
+#logo{
+  float: left;
+}
+a{
+  color:#670001;
+}
+#menu{
+  float: right;
+}
+#menu a {
+  text-decoration: none;
+  color: #670001;
+  margin-left: 50px;
+  line-height: 75px;
+
+}
+#menu a:hover{
+  text-decoration: underline;
+}
+
+header{
+  height: 75px;
+margin: 30px 0px;
+}
+
+
+
+
